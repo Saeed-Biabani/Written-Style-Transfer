@@ -78,4 +78,4 @@ Convert Typed Text-Image Into Handwritten Style Using Adverserial Methods
 </div>
 
 ## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License]()
+Project is distributed under [MIT License](https://github.com/Saeed-Biabani/Written-Style-Transfer/blob/main/LICENSE)
